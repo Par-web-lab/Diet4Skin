@@ -1,0 +1,84 @@
+/* General page style */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #eaf3fa;
+}
+
+/* Header */
+.header {
+    background-color: #3b75a3;
+    color: white;
+    padding: 15px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Main layout - two columns */
+.main {
+    display: flex;
+    height: calc(100vh - 60px);
+}
+
+/* Left panel */
+.left-panel {
+    width: 35%;
+    background: #d9e7f3;
+    padding: 20px;
+    border-right: 2px solid #b0c4de;
+    overflow-y: auto;
+}
+
+.left-panel h2 {
+    margin-top: 0;
+    color: #2c4a66;
+}
+
+.left-panel label {
+    display: block;
+    margin: 5px 0;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.left-panel input {
+    margin-right: 8px;
+}
+
+.left-panel button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    background-color: #2c5d85;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.left-panel button:hover {
+    background-color: #244c6b;
+}
+
+/* Right panel */
+.right-panel {
+    width: 65%;
+    background: #f1f9ff;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.right-panel h2 {
+    margin-top: 0;
+    color: #2c4a66;
+}
+
+.right-panel p {
+    background: white;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 5px 0;
+    border-left: 4px solid #3b75a3;
+}

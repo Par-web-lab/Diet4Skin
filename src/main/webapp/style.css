@@ -1,0 +1,76 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("images/Background.png");
+  background-size: cover;       /* stretch to cover whole page */
+  background-position: center;  /* keep centered */
+  background-repeat: no-repeat; /* avoid repeating */
+  height: 100vh;                /* full screen height */
+  font-family: Arial, sans-serif;
+}
+
+/* Tablet container */
+.container {
+  display: flex;
+  justify-content: center;   /* horizontal centering */
+  align-items: center;       /* vertical centering */
+  height: 100vh;             /* full viewport height */
+}
+
+.tablet {
+  background: #fff;
+  border-radius: 30px;
+  padding: 60px;
+  width: 95%;
+  max-width: 700px;
+  text-align: center;
+  box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.25);
+  border: 12px solid #e6a9b7; /* Slightly thicker border */
+  position: relative;
+}
+
+/* Top text (FOR DIET) */
+.top-text {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #9c3353; /* dark pink */
+}
+
+.title {
+  font-size: 3.5rem; /* Increased from 2.8rem */
+  font-weight: 800;
+  color: #9c3353;
+  margin-top: 60px;
+}
+
+.subtitle {
+  font-size: 1.5rem; /* Increased from 1.2rem */
+  color: #d45d79;
+  margin-bottom: 30px;
+}
+
+/* Button */
+.btn {
+  background: #d45d79;
+  color: #fff;
+  border: none;
+  padding: 16px 40px;
+  font-size: 1.1rem;
+  border-radius: 40px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn:hover {
+  background: #9c3353;
+}
