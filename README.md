@@ -31,4 +31,5 @@ The clean **HTML/CSS frontend** provides a user-friendly interface for interacti
 ## Demo 🎥
 Here’s a quick demo of **Diet4Skin** in action:
 
-[Watch Demo on Google Drive](https://drive.google.com/drive/folders/1z4JhYGKmZ4ncEfwxb38Y_n07G0tDcRt1?usp=sharing)
+[Watch Demo]
+(https://drive.google.com/file/d/1oEImOWGKco5bsLFP8xTtXfCx7dfFD2iH/view?usp=sharing)
