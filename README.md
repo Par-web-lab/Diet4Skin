@@ -31,4 +31,4 @@ The clean **HTML/CSS frontend** provides a user-friendly interface for interacti
 ## Demo 🎥
 Here’s a quick demo of **Diet4Skin** in action:
 
-(demo/demo.mp4)
+[Watch Demo](demo/demo.mp4)
