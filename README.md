@@ -30,10 +30,10 @@ The clean **HTML/CSS frontend** provides a user-friendly interface for interacti
 ---
 ## 🎥 Preview
 
-![Diet4Skin Preview – First Page](image/FirstPage.png)  
-![Diet4Skin Preview – List 1](image/List1.png)  
-![Diet4Skin Preview – List 2](image/List2.png)  
-![Diet4Skin Preview – Items](image/Items.png)
+![Diet4Skin Preview – First Page](images/FirstPage.png)  
+![Diet4Skin Preview – List 1](images/List1.png)  
+![Diet4Skin Preview – List 2](images/List2.png)  
+![Diet4Skin Preview – Items](images/Items.png)
 
 
 [Watch Demo](https://drive.google.com/file/d/1peBiGTjMm9Lqgs0Bret8oqEKQe5EKacl/view?usp=sharing)
