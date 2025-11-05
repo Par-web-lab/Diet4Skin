@@ -20,16 +20,20 @@ The clean **HTML/CSS frontend** provides a user-friendly interface for interacti
 ---
 
 ## Technologies Used
-- **Java (Servlets)** – Backend application logic.  
+- **Java (Servlets)** – Backend application logic. 
+- **JSP (JavaServer Pages)** –  Used to dynamically generate HTML content and render data from the backend.
 - **JDBC (Java Database Connectivity)** – For connecting and interacting with the MySQL database.  
 - **MySQL** – Database system to store skin issues, food data, and diet plans.  
 - **HTML5 & CSS3** – For building the frontend interface.  
 - **Apache Tomcat** – Servlet container for running the web application.  
 
 ---
+## 🎥 Preview
 
-## Demo 🎥
-Here’s a quick demo of **Diet4Skin** in action:
+![Diet4Skin Preview](image/FirstPage.png)
+(image/List1.png)
+(image/List2.png)
+(image/Items.png)
 
 [Watch Demo]
-(https://drive.google.com/file/d/1oEImOWGKco5bsLFP8xTtXfCx7dfFD2iH/view?usp=sharing)
+(https://drive.google.com/file/d/1peBiGTjMm9Lqgs0Bret8oqEKQe5EKacl/view?usp=sharing)
